@@ -8,20 +8,20 @@ The repository contains templates from a number of pre-registration websites. Wh
 
 As of January 19, 2021 the repository contains documents from: 
 
-* [OSF] (https://osf.io/zab38/)
+* [OSF](https://osf.io/zab38/)
 
-* [AsPredicted.org] (https://aspredicted.org)
+* [AsPredicted.org](https://aspredicted.org)
 
-* [EGAP] (https://egap.org/registry/)
+* [EGAP](https://egap.org/registry/)
 
 
 I am planning on adding templates from: 
 
-* [AEA RCT] (https://www.socialscienceregistry.org/site/instructions)
+* [AEA RCT](https://www.socialscienceregistry.org/site/instructions)
 
 
 
-If there are other templates of interest, please feel free to [email me] (ecikanek@umich.edu) or comment on the repository. 
+If there are other templates of interest, please feel free to [email me](ecikanek@umich.edu) or comment on the repository. 
 
 Since this is in the initial stages (as of January 19, 2021) I am still working on the organization and structure of this repository. Therefore below is short-term To Do list: 
 
