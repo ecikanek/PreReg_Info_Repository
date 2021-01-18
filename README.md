@@ -35,7 +35,7 @@ If there are other things you think you could like to see here, you can let me k
 
 ## Additional Contributors
 
-Science is about collaboration with others and is a dialog rather than a monolog. Thus, a large thank you to the following contributors is in order: 
+Science is about advancing knowledge via collaboration. Thus, a large thank you to the following contributors is in order: 
 
 
 
