@@ -2,7 +2,7 @@
 
 This repository was made in part because of the pre-registration kerfuffle on Twitter in January 2021 when the Journal of Politics changed their [submission guidelines for experiments](https://www.journals.uchicago.edu/journals/jop/instruct). Since the JOP lists a number of possible pre-registration options, I wanted to try and collect as many as possible in one place for the sake of comparison and to perhaps make switching to pre-registration for experiments a little less daunting. 
 
-However, because it makes sense that the researcher constraints from pre-registration are not just for experimenters but for everyone, I have included templates and documentation for a variety of types of research. 
+However, because it makes sense that researcher constraints from pre-registration are not just for experimenters but for everyone, (and because maybe one day I will be teaching a research design class) I have included templates and documentation for a variety of types of research. 
 
 The repository contains templates from a number of pre-registration websites. While I will try to keep the documents up to date, the best I can guarantee is cross-checking things once a quarter (but perhaps less - I should be writing).
 
