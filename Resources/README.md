@@ -3,14 +3,16 @@
 This file contains resources and links regarding pre-registration. 
 
 
-## Current List of Resource Files
+## Current List of Files in Resource Folder
 
-[Little_Pepinsky_2018] \\ Little, A., & Pepinsky, T. B. (2018). Learning from Biased Research Designs. Available at SSRN 3236815.
+[File Name] APA Citation
 
-[File Name] \\ APA Citation
+[Little_Pepinsky_2018]  Little, A., & Pepinsky, T. B. (2018). Learning from Biased Research Designs. Available at SSRN 3236815.
 
 
-## Current List of Links 
+
+
+## Current List of Resource Links 
 
 [What is Pre-Registration For?](https://timryan.web.unc.edu/2021/01/16/what-is-pre-registration-for/) Blog post about pre-registraion by Timothy J. Ryan, UNC-Chapel Hill
 
