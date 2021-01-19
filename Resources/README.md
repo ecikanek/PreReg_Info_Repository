@@ -5,13 +5,9 @@ This file contains resources and links regarding pre-registration.
 
 ## Current List of Resource Files
 
-[Little_Pepinsky_2018] 
+[Little_Pepinsky_2018] // Little, A., & Pepinsky, T. B. (2018). Learning from Biased Research Designs. Available at SSRN 3236815.
 
-Little, A., & Pepinsky, T. B. (2018). Learning from Biased Research Designs. Available at SSRN 3236815.
-
-[File Name]
-
-APA Citation
+[File Name] // APA Citation
 
 
 ## Current List of Links 
