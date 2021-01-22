@@ -27,9 +27,9 @@ Since this is in the initial stages (as of January 19, 2021) I am still working 
 
 
 ## To-Do
-* Organize each organization's folder. 
+* Continue to look for more material for each org's folder.
 * Update READMEs with additional organizational information and observations about the files. 
-* Add materials to folder with general pre-registration resources/links. 
+* Add more materials to folder with general pre-registration resources/links. 
 
 If there are other things you think you could like to see here, you can let me know. Even better, you can contribute to this GitHub! When you do, please add  your name to the list of contributors below:
 
