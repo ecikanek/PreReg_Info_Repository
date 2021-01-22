@@ -1,6 +1,6 @@
 # As Predicted
 
-This file contains information from [As Predicted[(https://aspredicted.org/). Currently there is only one file in the folder: 
+This file contains information from [As Predicted](https://aspredicted.org/). Currently there is only one file in the folder: 
 
 
 
